@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+/// доманшний контроллер с постами и историями
 final class HomeViewController: UIViewController {
 
     // MARK: - Constants
