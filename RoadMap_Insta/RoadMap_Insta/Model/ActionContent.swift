@@ -5,7 +5,6 @@
 //  Created by Dima Kovrigin on 25.10.2022.
 //
 
-import Foundation
 /// Модель для ячейки
 struct ActionContent {
     let userName: String

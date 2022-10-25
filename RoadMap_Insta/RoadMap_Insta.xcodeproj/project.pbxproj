@@ -11,7 +11,7 @@
 		2D0748872907B862005991B5 /* ActionsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D0748862907B862005991B5 /* ActionsItem.swift */; };
 		2D0748892907B88F005991B5 /* ActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D0748882907B88F005991B5 /* ActionsViewController.swift */; };
 		2D07488C2907BA4B005991B5 /* NSMutableAttributedString+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D07488B2907BA4B005991B5 /* NSMutableAttributedString+Extension.swift */; };
-		2D07488E2907BA6A005991B5 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D07488D2907BA6A005991B5 /* File.swift */; };
+		2D07488E2907BA6A005991B5 /* Srtring+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D07488D2907BA6A005991B5 /* Srtring+Extension.swift */; };
 		2D0748912907BAAF005991B5 /* ActionSubscribeTableViewCell in Resources */ = {isa = PBXBuildFile; fileRef = 2D0748902907BAAF005991B5 /* ActionSubscribeTableViewCell */; };
 		2D3CC96B29044D8400F352AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D3CC96A29044D8400F352AC /* Main.storyboard */; };
 		2D3CC96D29044DE300F352AC /* SelectPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3CC96C29044DE300F352AC /* SelectPost.swift */; };
@@ -27,7 +27,7 @@
 		2D0748862907B862005991B5 /* ActionsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsItem.swift; sourceTree = "<group>"; };
 		2D0748882907B88F005991B5 /* ActionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsViewController.swift; sourceTree = "<group>"; };
 		2D07488B2907BA4B005991B5 /* NSMutableAttributedString+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSMutableAttributedString+Extension.swift"; sourceTree = "<group>"; };
-		2D07488D2907BA6A005991B5 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		2D07488D2907BA6A005991B5 /* Srtring+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Srtring+Extension.swift"; sourceTree = "<group>"; };
 		2D0748902907BAAF005991B5 /* ActionSubscribeTableViewCell */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ActionSubscribeTableViewCell; sourceTree = "<group>"; };
 		2D0748932907BAC1005991B5 /* ActionPostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionPostTableViewCell.swift; sourceTree = "<group>"; };
 		2D0748942907BAC1005991B5 /* ActionPostTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ActionPostTableViewCell.xib; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				2D07488B2907BA4B005991B5 /* NSMutableAttributedString+Extension.swift */,
-				2D07488D2907BA6A005991B5 /* File.swift */,
+				2D07488D2907BA6A005991B5 /* Srtring+Extension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -233,7 +233,7 @@
 				2D0748852907B845005991B5 /* ActionContent.swift in Sources */,
 				2D402A5628FEC5540017CE3B /* AppDelegate.swift in Sources */,
 				2D07488C2907BA4B005991B5 /* NSMutableAttributedString+Extension.swift in Sources */,
-				2D07488E2907BA6A005991B5 /* File.swift in Sources */,
+				2D07488E2907BA6A005991B5 /* Srtring+Extension.swift in Sources */,
 				2D402A5828FEC5540017CE3B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
