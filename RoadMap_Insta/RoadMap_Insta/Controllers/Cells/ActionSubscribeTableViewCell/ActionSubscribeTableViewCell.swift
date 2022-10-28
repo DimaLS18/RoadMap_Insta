@@ -1,8 +1,8 @@
 //
-//  ActionsViewController.swift
+//  ActionSubscribeTableViewCell.swift
 //  RoadMap_Insta
 //
-//  Created by Dima Kovrigin on 25.10.2022.
+//  Created by Dima Kovrigin on 28.10.2022.
 //
 
 import UIKit
@@ -16,7 +16,7 @@ final class ActionSubscribeTableViewCell: UITableViewCell {
     @IBOutlet private weak var contentLabel: UILabel!
     @IBOutlet private weak var subscribeButton: UIButton!
     @IBOutlet private weak var youSubscribedButton: UIButton!
-
+    
     // MARK: - Public methods
     
     func configure(model: ActionContent) {
